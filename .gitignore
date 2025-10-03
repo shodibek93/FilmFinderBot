@@ -1,0 +1,17 @@
+# venv / кэш
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Секреты и данные
+.env
+*.db
+/data/
